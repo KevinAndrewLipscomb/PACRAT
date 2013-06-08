@@ -7,189 +7,225 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace login {
+namespace UserControl_strike_team_deployment {
     
     
-    public partial class TWebForm_login {
+    public partial class TWebUserControl_strike_team_deployment {
         
         /// <summary>
-        /// Form_control control.
+        /// TableRow_record_navigation_controls control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm Form_control;
+        protected global::System.Web.UI.HtmlControls.HtmlTableRow TableRow_record_navigation_controls;
         
         /// <summary>
-        /// UserControl_precontent control.
+        /// TextBox_id control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::UserControl_precontent.TWebUserControl_precontent UserControl_precontent;
+        protected global::System.Web.UI.WebControls.TextBox TextBox_id;
         
         /// <summary>
-        /// CustomValidator_account_exists control.
+        /// Button_lookup control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CustomValidator CustomValidator_account_exists;
+        protected global::System.Web.UI.WebControls.Button Button_lookup;
         
         /// <summary>
-        /// TextBox_username control.
+        /// Label_lookup_arrow control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox_username;
+        protected global::System.Web.UI.WebControls.Label Label_lookup_arrow;
         
         /// <summary>
-        /// LinkButton_new_user control.
+        /// Label_lookup_hint control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton_new_user;
+        protected global::System.Web.UI.WebControls.Label Label_lookup_hint;
         
         /// <summary>
-        /// LinkButton_forgot_username control.
+        /// LinkButton_reset control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton_forgot_username;
+        protected global::System.Web.UI.WebControls.LinkButton LinkButton_reset;
         
         /// <summary>
-        /// RequiredFieldValidator_username control.
+        /// LinkButton_new_record control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator_username;
+        protected global::System.Web.UI.WebControls.LinkButton LinkButton_new_record;
         
         /// <summary>
-        /// RegularExpressionValidator_username control.
+        /// Panel_match_numbers control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator_username;
+        protected global::System.Web.UI.WebControls.Panel Panel_match_numbers;
         
         /// <summary>
-        /// TextBox_password control.
+        /// Literal_match_index control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox_password;
+        protected global::System.Web.UI.WebControls.Literal Literal_match_index;
         
         /// <summary>
-        /// LinkButton_forgot_password control.
+        /// Literal_num_matches control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton_forgot_password;
+        protected global::System.Web.UI.WebControls.Literal Literal_num_matches;
         
         /// <summary>
-        /// RequiredFieldValidator_password control.
+        /// LinkButton_go_to_match_first control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator_password;
+        protected global::System.Web.UI.WebControls.LinkButton LinkButton_go_to_match_first;
         
         /// <summary>
-        /// CheckBox_keep_me_logged_in control.
+        /// LinkButton_go_to_match_prior control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CheckBox CheckBox_keep_me_logged_in;
+        protected global::System.Web.UI.WebControls.LinkButton LinkButton_go_to_match_prior;
         
         /// <summary>
-        /// Button_log_in control.
+        /// LinkButton_go_to_match_next control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button_log_in;
+        protected global::System.Web.UI.WebControls.LinkButton LinkButton_go_to_match_next;
         
         /// <summary>
-        /// Hidden_client_timezone_offset control.
+        /// LinkButton_go_to_match_last control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputHidden Hidden_client_timezone_offset;
+        protected global::System.Web.UI.WebControls.LinkButton LinkButton_go_to_match_last;
         
         /// <summary>
-        /// UserControl_postcontent control.
+        /// DropDownList_id control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::UserControl_postcontent.TWebUserControl_postcontent UserControl_postcontent;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownList_id;
         
         /// <summary>
-        /// Literal_application_name control.
+        /// RequiredFieldValidator_id control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal Literal_application_name;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator_id;
         
         /// <summary>
-        /// HyperLink_open_source_software_definition control.
+        /// UserControl_drop_down_date_creation_date control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_open_source_software_definition;
+        protected global::UserControl_drop_down_date.TWebUserControl_drop_down_date UserControl_drop_down_date_creation_date;
         
         /// <summary>
-        /// HyperLink_software_repository_definition control.
+        /// TextBox_name control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_software_repository_definition;
+        protected global::System.Web.UI.WebControls.TextBox TextBox_name;
         
         /// <summary>
-        /// HyperLink_repository_here control.
+        /// RequiredFieldValidator_name control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_repository_here;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator_name;
         
         /// <summary>
-        /// HyperLink_Frompaper2webDotCom control.
+        /// TextBox_region_code control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_Frompaper2webDotCom;
+        protected global::System.Web.UI.WebControls.TextBox TextBox_region_code;
+        
+        /// <summary>
+        /// RequiredFieldValidator_region_code control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator_region_code;
+        
+        /// <summary>
+        /// RegularExpressionValidator_region_code control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator_region_code;
+        
+        /// <summary>
+        /// Button_submit control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Button_submit;
+        
+        /// <summary>
+        /// Button_delete control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Button_delete;
     }
 }
