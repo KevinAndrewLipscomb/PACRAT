@@ -1,4 +1,4 @@
--- $Id$
+-- $Id: 2012-07-07-A--add-only-necessary-schema-parts-to-emsidb.sql 4205 2012-07-08 00:26:17Z KevinAnLipscomb $
 
 SET FOREIGN_KEY_CHECKS=0;
 

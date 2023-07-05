@@ -1,4 +1,4 @@
-@REM $Id$
+@REM $Id: 2013-04-18-A--BATCH--initial-PACRAT-support.cmd 4728 2013-07-09 15:59:04Z kevinanlipscomb $
 @REM
 set base_db_name=emsidb
 set the_host=localhost
