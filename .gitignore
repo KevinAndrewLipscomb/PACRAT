@@ -12,5 +12,6 @@ packages/
 unpublished.config
 /.svn
 /bin/*.xml
-/lib/emsi/lib/ki/.xml
+/lib/emsi/
+/lib/ki/
 /Web.config
