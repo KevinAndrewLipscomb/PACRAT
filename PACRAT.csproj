@@ -163,6 +163,7 @@
     <Content Include="exception.aspx" />
     <Content Include="Global.asax" />
     <Content Include="js\sha1.js" />
+    <Content Include="lib\000-README-IF-COMPILING.html" />
     <Content Include="login.aspx" />
     <Content Include="new_user_registration.aspx" />
     <Content Include="noninteractive\report_region_strike_team_officers_in_state.aspx" />
