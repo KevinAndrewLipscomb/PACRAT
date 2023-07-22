@@ -14,5 +14,4 @@ unpublished.config
 /bin/*.xml
 /lib/emsi/
 /lib/ki/
-/usercontrol/ki/
 /Web.config
